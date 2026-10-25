@@ -1,0 +1,92 @@
+[
+ {
+  "tier": "eevee",
+  "t": 1.0,
+  "frame": 26,
+  "seconds": 6.57
+ },
+ {
+  "tier": "eevee",
+  "t": 26.0,
+  "frame": 626,
+  "seconds": 10.71
+ },
+ {
+  "tier": "eevee",
+  "t": 42.0,
+  "frame": 1010,
+  "seconds": 8.92
+ },
+ {
+  "tier": "c32",
+  "t": 1.0,
+  "frame": 26,
+  "seconds": 12.86
+ },
+ {
+  "tier": "c32",
+  "t": 26.0,
+  "frame": 626,
+  "seconds": 16.26
+ },
+ {
+  "tier": "c32",
+  "t": 42.0,
+  "frame": 1010,
+  "seconds": 14.2
+ },
+ {
+  "tier": "c64",
+  "t": 1.0,
+  "frame": 26,
+  "seconds": 23.41
+ },
+ {
+  "tier": "c64",
+  "t": 26.0,
+  "frame": 626,
+  "seconds": 24.85
+ },
+ {
+  "tier": "c64",
+  "t": 42.0,
+  "frame": 1010,
+  "seconds": 21.73
+ },
+ {
+  "tier": "c128",
+  "t": 1.0,
+  "frame": 26,
+  "seconds": 37.49
+ },
+ {
+  "tier": "c128",
+  "t": 26.0,
+  "frame": 626,
+  "seconds": 44.85
+ },
+ {
+  "tier": "c128",
+  "t": 42.0,
+  "frame": 1010,
+  "seconds": 37.67
+ },
+ {
+  "tier": "c64fast",
+  "t": 1.0,
+  "frame": 26,
+  "seconds": 21.55
+ },
+ {
+  "tier": "c64fast",
+  "t": 26.0,
+  "frame": 626,
+  "seconds": 30.96
+ },
+ {
+  "tier": "c64fast",
+  "t": 42.0,
+  "frame": 1010,
+  "seconds": 23.36
+ }
+]
